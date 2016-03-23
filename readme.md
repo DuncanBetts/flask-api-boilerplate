@@ -3,6 +3,7 @@
 This is simple example of Flask application that includes:
 
 * Flask-SQLAlchemy
+* Flask-Script - used to manager script
 * Blueprints
 
 ## Installation
