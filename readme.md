@@ -7,4 +7,16 @@ This is simple example of Flask application that includes:
 
 ## Installation
 
+* First step is to clone this repository and create virtualenv.
+
+* Install requirements: 
+
+    `$ pip install -r requirements.txt`
+
+* Run the application:
+
+    `$ python manage.py runserver`
+
+     * -r for reloadinf development server after code change
+
 ## Contribution
