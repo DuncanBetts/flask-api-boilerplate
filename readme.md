@@ -15,8 +15,8 @@ This is simple example of Flask application that includes:
 
 * Run the application:
 
-    `$ python manage.py runserver`
+    `$ python manage.py runserver -r`
 
-     * -r for reloadinf development server after code change
+     * `-r` for reloading development server after code change
 
 ## Contribution
