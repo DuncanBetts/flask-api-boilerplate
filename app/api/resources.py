@@ -12,4 +12,4 @@ class UserListResource(BaseResource):
 
     def get(self):
         """Get method for UserListResource"""
-        return jsonify({ 'username': 'mark' })
+        return jsonify({ 'username': 'marek' })
